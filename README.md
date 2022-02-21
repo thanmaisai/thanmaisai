@@ -36,11 +36,11 @@
 - 👷 <samp>Currently pursuing B.Tech in Computer Science Engineering(2020-2024) from Reva University Banglore
 - ✍🏻 <samp>Core Member of ACM student chapter 
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 🔭 <samp> Currently working on **one-click-help(ML-based app)**
+- 🌱 <samp> Currently learning **Machine Learning, Deep Learning, Java Script**
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ⚽️ <samp>I am a photographer, footballer, dancer..
-- 🔭 <samp>I’m currently working on **one-click-help(ML-based app)**
-- 🌱 <samp>I’m currently learning **Machine Learning, Deep Learning, Java Script**
-- 📫 <samp>How to reach me **thanmaisai123@gmail.com**
+- ⚽️ <samp> A photographer, footballer, dancer..
+- 🥷 <samp> An Otaku
   
 </div>
   
