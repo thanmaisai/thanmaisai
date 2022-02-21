@@ -65,7 +65,6 @@
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/readme.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/javascript.svg" alt="drawing" width="50"/>
@@ -121,6 +120,10 @@
     </span>
   </a>
 </p>
+
+
+
+
   
 
 
