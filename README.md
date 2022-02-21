@@ -94,7 +94,6 @@
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<img src="hhttps://github.com/thanmaisai/thanmaisai/blob/main/icons/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   </span>
 <hr> 
