@@ -39,12 +39,11 @@
 - 🔭 <samp> Currently working on **one-click-help(ML-based app)**
 - 🌱 <samp> Currently learning **Machine Learning, Deep Learning, Java Script**
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ⚽️ <samp> A photographer, footballer, dancer..
+- ⚽️ <samp> A photographer, footballer, dancer
 - 🥷 <samp> An Otaku
   
 </div>
   
- 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
@@ -62,7 +61,7 @@
   
 <span>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/arduino-1.svg" alt="drawing" width="50"/>
+
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/html.svg" alt="drawing" width="50"/>
@@ -89,6 +88,7 @@
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/git-icon.svg" alt="drawing" width="40"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/github-icon-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
