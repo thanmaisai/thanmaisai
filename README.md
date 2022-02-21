@@ -60,8 +60,7 @@
 ![pandas](https://img.shields.io/badge/pandas-800000?style=flat-square&logo=pandas&logoColor=white)
   
 <span>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/c.svg" alt="drawing" width="50"/>
-
+<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/c_plain_logo_icon_146610.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/html.svg" alt="drawing" width="50"/>
