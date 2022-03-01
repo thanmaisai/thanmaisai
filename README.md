@@ -39,6 +39,7 @@
 - 🔭 <samp> Currently working on **one-click-help(ML-based app)**
 - 🌱 <samp> Currently learning **Machine Learning, Deep Learning, Java Script**
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- 😶 always Learning and evolving.
 - ⚽️ <samp> A photographer, footballer, dancer
 - 🥷 <samp> An Otaku
   
