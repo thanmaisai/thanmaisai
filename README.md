@@ -48,17 +48,12 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-![swift](https://img.shields.io/badge/swift-013243?style=flat-square&logo=swift&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_learning-C51A4A?style=flat-square&logo=Machine_learning-pi&logoColor=white)
-![Artificial Inteligence](https://img.shields.io/badge/Artificial_intiligence-DD1100?style=flat-square&logo=Artificial_intiligence&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-800000?style=flat-square&logo=pandas&logoColor=white)
+
   
 <span>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/c_plain_logo_icon_146610.svg" alt="drawing" width="50"/>
@@ -82,19 +77,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+
   
   <span>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/git-icon.svg" alt="drawing" width="40"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/github-icon-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   </span>
 <hr> 
   
