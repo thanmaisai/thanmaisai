@@ -35,6 +35,7 @@
 
 - 👷 <samp>Currently pursuing B.Tech in Computer Science Engineering(2020-2024) from Reva University Banglore
 - ✍🏻 <samp>Core Member of ACM student chapter 
+- 🏆 <samp> won 3rd place in Parsec22 conducted by IITDH 
 - 💼 <samp>I’m looking for **Internship Opportunities/roles.**
 - 🔭 <samp> Currently working on **one-click-help(ML-based app)**
 - 🌱 <samp> Currently learning **Machine Learning, Deep Learning, Java Script**
