@@ -37,8 +37,6 @@
 - ✍🏻 <samp>Core Member of ACM student chapter 
 - 🏆 <samp> won 3rd place in Parsec22 conducted by IITDH 
 - 💼 <samp>I’m looking for **Internship Opportunities/roles.**
-- 🔭 <samp> Currently working on **one-click-help(ML-based app)**
-- 🌱 <samp> Currently learning **Machine Learning, Deep Learning, flutter/dart**
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - 😶 always Learning and evolving.
 - ⚽️ <samp> A photographer, footballer, dancer
