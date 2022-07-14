@@ -61,8 +61,7 @@
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/thanmaisai/thanmaisai/blob/main/icons/javascript.svg" alt="drawing" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+  </a> 
   
 </span>
   
