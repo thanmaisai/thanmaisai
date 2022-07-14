@@ -5,16 +5,16 @@ Search...
 Log in
 Create account
 
-46
+54
 
-8
+9
 
-43
+54
 
 Cover image for How to enable GitHub Actions on your Profile README for a snake-eating contribution graph 🐍
 Michelle Mannering
 Michelle Mannering
-Posted on 28 Jun 2021 • Updated on 29 Jul 2021
+Posted on 28 Jun 2021 • Updated on 24 Feb
 
 How to enable GitHub Actions on your Profile README for a snake-eating contribution graph 🐍
 #
@@ -25,24 +25,24 @@ markdown
 opensource
 #
 tutorial
-GitHub Like a Boss (15 Part Series)
+Git Good (9 Part Series)
 1
-GitHub Readme for easy to understand code
-2
 Using the GitHub CLI to update your repo
+2
+How to create and pin a gist on GitHub
 ...
-11 more parts...
-14
-Customise GitHub Mobile to work better for you: Shortcuts and more
-15
-Shipping a new open source project? Have you thought about release naming?
+5 more parts...
+8
+How to use GitHub Pages to host your website, even with multiple repos
+9
+How to create a Profile README for your Organisation
 Lots of people have been talking about and sharing their GitHub Profile READMEs. It was a project we launched last year and developers are loving it. As this feature became more popular, more developers were building templates, plugins, and apps for you to use on your profile.
 
 This post from Supritha caught my attention. I like the way they talk about various pieces of code to have on your GitHub Profile README.
 
 supritha 
 How to have an awesome GitHub profile ?
-Supritha Ravishankar ・ Jun 8 ・ 5 min read
+Supritha Ravishankar ・ Jun 8 '21 ・ 5 min read
 #github #markdown #opensource #git
 One of the comments from Guillaume Falourd pointed to a really cool project from Platane.
 
@@ -195,21 +195,33 @@ Now you should have a really cool looking snake eating your contributions!
 GIFSnakeEating
 Hopefully this guide was helpful for you and gives you a good base to start building and adding more Actions on your profile. What have you been adding to your GitHub Profile README? Other there other cool Actions I should be looking at?
 
-GitHub Like a Boss (15 Part Series)
+Git Good (9 Part Series)
 1
-GitHub Readme for easy to understand code
-2
 Using the GitHub CLI to update your repo
+2
+How to create and pin a gist on GitHub
 ...
-11 more parts...
-14
-Customise GitHub Mobile to work better for you: Shortcuts and more
-15
-Shipping a new open source project? Have you thought about release naming?
-Discussion (16)
+5 more parts...
+8
+How to use GitHub Pages to host your website, even with multiple repos
+9
+How to create a Profile README for your Organisation
+Discussion (21)
 Subscribe
 pic
 Add to the discussion
+ 
+kushaltanna24 profile image
+KushalTanna24
+•
+Jun 3
+
+Work fine.! Here is mine - KushalTanna24
+
+
+2
+ likes
+Reply
  
 msoftware profile image
 Michael jentsch
@@ -282,35 +294,6 @@ Thanks.
  likes
 Reply
  
-laurasiiia profile image
-Laura
-•
-Jan 2 • Edited on Jan 2
-
-Hi, i did everything right and even got the "build" status. But no output branch was created... why is that? Can someone help me? github.com/laurasiiia
-
-
-1
- like
-Reply
- 
-mishmanners profile image
-Michelle Mannering 
-•
-Jan 4
-
-I assume you're working off this folder: github.com/laurasiiia/laurasiiia/b...
-
-Since you've got a newer repo (mine account was set up a number of years ago), you have the default branch set to "main". You might need to change the code to be "main" instead of "master".
-
-I created a PR for you: github.com/laurasiiia/laurasiiia/p...
-(run it and see if that works)... it might not but worth a shot. Feel free to jump in other people 😄
-
-
-1
- like
-Reply
- 
 adityamangal1 profile image
 Aditya Mangal
 •
@@ -349,6 +332,19 @@ instagram.com/zieldecastro/
  like
 Reply
  
+wkylin profile image
+wkylin.w
+•
+May 1
+
+Here's mine:
+github.com/wkylin
+
+
+1
+ like
+Reply
+ 
 shasank27 profile image
 Shasank Periwal
 •
@@ -381,6 +377,70 @@ Hope that helps.
  like
 Reply
  
+laurasiiia profile image
+Laura
+•
+Jan 2 • Edited on Jan 2
+
+Hi, i did everything right and even got the "build" status. But no output branch was created... why is that? Can someone help me? github.com/laurasiiia
+
+
+1
+ like
+Reply
+ 
+mishmanners profile image
+Michelle Mannering 
+•
+Jan 4
+
+I assume you're working off this folder: github.com/laurasiiia/laurasiiia/b...
+
+Since you've got a newer repo (mine account was set up a number of years ago), you have the default branch set to "main". You might need to change the code to be "main" instead of "master".
+
+I created a PR for you: github.com/laurasiiia/laurasiiia/p...
+(run it and see if that works)... it might not but worth a shot. Feel free to jump in other people 😄
+
+
+1
+ like
+Reply
+ 
+phuocantd profile image
+An Nguyễn Phước
+•
+May 31
+
+How to auto build workflow everyday
+
+
+1
+ like
+Reply
+ 
+tahmidabir profile image
+Tahmid Abir
+•
+Jun 18
+
+Do we need to run the action everyday after commit? or it will auto load,
+Btw I have made mine, thanks for the detailed writings, here's mine- github.com/tahmidabir
+
+
+Like
+Reply
+ 
+adityathakekar profile image
+Aditya Thakekar
+•
+Dec 24 '21
+
+works great. thanks a ton.
+
+
+Like
+Reply
+ 
 ichchhagupta profile image
 Ichchha Gupta
 •
@@ -404,33 +464,36 @@ Actions is a feature you'll need to enable for your repo. When you go to your re
  like
 Reply
  
-adityathakekar profile image
-Aditya Thakekar
+smartmayukh profile image
+Mayukhmali Das
 •
-Dec 24 '21
+Jul 1
 
-works great. thanks a ton.
+Works great !!!!!!!! Here's mine
+
+github.com/Smartmayukh
 
 
-Like
+1
+ like
 Reply
 Code of Conduct • Report abuse
 Read next
-whatminjacodes profile image
-How I keep drafted blog posts organized
-whatminjacodes [she/they] - Feb 4
+saar_memphis profile image
+Here is why you need a message broker
+Saar Ryan Cohen - Jul 7
 
-abbeyperini profile image
-A Beginner's Guide to HTTP - Part 2: an App and a Server
-Abbey Perini - Feb 16
+sandeepk27 profile image
+What is Cloud Computing and its certifications
+Sandeep - Jun 8
 
-aravindvcyber profile image
-🌟 Converting Roman Numerals to Integer n vice-versa
-Aravind V - Feb 5
+femolacaster profile image
+My Top 4 Open Source CRM. What are Yours?
+femolacaster - Jun 27
 
-daniloab profile image
-How to keep your repo package dependencies up to date automatically
-Danilo Assis - Feb 10
+shrutiiaroraaa profile image
+My Six Months Strategy Plan for Building Up A Community.
+Shruti Arora - Jul 8
 
 
 Michelle Mannering
@@ -445,12 +508,12 @@ Developer Advocate at GitHub
 JOINED
 29 May 2020
 More from Michelle Mannering
-How to create a healthy and sustainable open source community
-#github #opensource #tutorial
-Shipping a new open source project? Have you thought about release naming?
-#tutorial #discuss #release #programming
-Customise GitHub Mobile to work better for you: Shortcuts and more
-#productivity #tutorial #github #mobile
+Top tips for being a good online community member
+#opensource #tutorial #beginners #devops
+Understand your code using GitHub Copilot
+#github #ai #productivity #tutorial
+How to translate code into other languages using GitHub Copilot
+#beginners #codenewbie #tutorial #productivity
 
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
@@ -483,7 +546,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: thanmaisai
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -506,3 +569,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+DEV Community — A constructive and inclusive social network for software developers. With you every step of your journey.
+
+Built on Forem — the open source software that powers DEV and other inclusive communities.
+
+Made with love and Ruby on Rails. DEV Community © 2016 - 2022.
