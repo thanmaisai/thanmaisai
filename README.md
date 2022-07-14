@@ -108,7 +108,7 @@
 
 <hr>
 
-![snake svg](https://github.com/thanmaisai/thanmaisai/blob/main/snake/snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
 
