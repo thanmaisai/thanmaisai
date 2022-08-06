@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [thanmisai !](https://github.com/thanmaisai) <img src="https://github.com/thanmaisai/thanmaisai/blob/main/ezgif.com-gif-maker.gif" width="25px">
+# Hey Everyone! I'm [thanmaisai !](https://github.com/thanmaisai) <img src="https://github.com/thanmaisai/thanmaisai/blob/main/ezgif.com-gif-maker.gif" width="25px">
 
 <br><br>
 <a href="https://twitter.com/Thanmaisai3">
