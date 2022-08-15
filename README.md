@@ -22,6 +22,7 @@
 <a href="https://www.hackerrank.com/thanmaisayee123">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
+![](https://komarev.com/ghpvc/?username=thanmaisai&color=dc143c)
 <br><br>
 
 ![](https://github.com/thanmaisai/thanmaisai/blob/main/pic.png)
