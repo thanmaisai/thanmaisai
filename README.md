@@ -110,6 +110,17 @@
 <hr>
 
 <!--![snake gif](https://github.com/thanmaisai/thanmaisai/blob/output/github-contribution-grid-snake.gif)-->
+  
+<!-- <p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,c++,java,python,flutter,figma &perline=8" />
+  </a>
+</p>
+ -->
+<!--   
+![Thanmaisai](https://count.getloli.com/get/@:thanmaisai)
+<hr> -->
+
 
 
 
