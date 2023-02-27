@@ -12,10 +12,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="https://github.com/thanmaisai">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a>
-  
   <a href="https://twitter.com/Thanmaisai3">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
