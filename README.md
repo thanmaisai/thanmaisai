@@ -1,7 +1,7 @@
 # "Hello World" <img src="https://github.com/thanmaisai/thanmaisai/blob/main/ezgif.com-gif-maker.gif" width="25px">
 
 
-[![Click here to visit portfolio](https://github.com/thanmaisai/thanmaisai/blob/main/Thanmai_Sai_.png)]()
+[![Click here to visit portfolio](https://github.com/thanmaisai/thanmaisai/blob/main/Thanmai_Sai_.png)](https://linktr.ee/thanmaisai)
 
 <p align="center">
  <a href="https://github.com/thanmaisai">
