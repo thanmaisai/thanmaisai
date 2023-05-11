@@ -28,7 +28,8 @@
 <p align="center">
   <img  src="https://count.getloli.com/get/@:thanmaisai"/>
 </p>
-
+<!--  ![Visitors](https://komarev.com/ghpvc/?username=thanmaisai&color=green) -->
+<p align='center'><img src="https://komarev.com/ghpvc/?username=thanmaisai&label=visitors&color=grey&style=for-the-badge"/></p>
 
 <!--![snake gif](https://github.com/thanmaisai/thanmaisai/blob/output/github-contribution-grid-snake.gif)-->
 
